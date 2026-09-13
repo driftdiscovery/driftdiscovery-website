@@ -1,5 +1,7 @@
+<div align="center">
+
 <h1>
-  <center>
-  <a href="https://driftdiscovery.app" target="_blank">driftdiscovery</a>
-  </center>
+  <a href="https://driftdiscovery.app">driftdiscovery</a>
 </h1>
+
+</div>
